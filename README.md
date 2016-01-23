@@ -42,6 +42,7 @@ I didn't try to categorize (yet) in any way. Just throwing ideas.
   * WebRTC chat - focusing more on the backend
   * Video chat
   * An IRC client
+  * Omegle Clone
 * Imageboard/Forum
 * Build a Chrome extension
   * To screenshot the entire page
